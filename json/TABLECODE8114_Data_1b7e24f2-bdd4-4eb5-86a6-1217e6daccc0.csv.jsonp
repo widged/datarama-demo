@@ -1,0 +1,4047 @@
+var jsonp_code8114 = {
+  "Total, New Zealand by regional council/area unit": [
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Value": "3376419"
+    },
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "628380"
+    },
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "389913"
+    },
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "320388"
+    },
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "289062"
+    },
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "291975"
+    },
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "278091"
+    },
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "408444"
+    },
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "86601"
+    },
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "83949"
+    },
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "22314"
+    },
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "201519"
+    },
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "3000633"
+    },
+    {
+      "Area": "Total, New Zealand by regional council/area unit",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "375783"
+    }
+  ],
+  "Northland Region": [
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "118938"
+    },
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "27651"
+    },
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "16767"
+    },
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "11295"
+    },
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "7080"
+    },
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "11343"
+    },
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "9360"
+    },
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "8847"
+    },
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "1854"
+    },
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "1476"
+    },
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "327"
+    },
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "4911"
+    },
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "100911"
+    },
+    {
+      "Area": "Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "18030"
+    }
+  ],
+  "Auckland Region": [
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "1119195"
+    },
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "166782"
+    },
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "104454"
+    },
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "95241"
+    },
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "104508"
+    },
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "78876"
+    },
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "91923"
+    },
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "168924"
+    },
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "31857"
+    },
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "36795"
+    },
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "7428"
+    },
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "105201"
+    },
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "991989"
+    },
+    {
+      "Area": "Auckland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "127206"
+    }
+  ],
+  "Waikato Region": [
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "316158"
+    },
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "69276"
+    },
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "41412"
+    },
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "31626"
+    },
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "24216"
+    },
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "30585"
+    },
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "24885"
+    },
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "31131"
+    },
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "6204"
+    },
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "5676"
+    },
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "1737"
+    },
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "13440"
+    },
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "280182"
+    },
+    {
+      "Area": "Waikato Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "35970"
+    }
+  ],
+  "Bay of Plenty Region": [
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "210018"
+    },
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "44772"
+    },
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "28062"
+    },
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "20439"
+    },
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "14100"
+    },
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "21390"
+    },
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "18645"
+    },
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "18873"
+    },
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "3741"
+    },
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "2832"
+    },
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "660"
+    },
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "9411"
+    },
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "182922"
+    },
+    {
+      "Area": "Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "27096"
+    }
+  ],
+  "Gisborne Region": [
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "32925"
+    },
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "7923"
+    },
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "4521"
+    },
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "3483"
+    },
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "2334"
+    },
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "2913"
+    },
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "2439"
+    },
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "2649"
+    },
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "525"
+    },
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "312"
+    },
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "60"
+    },
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "792"
+    },
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "27951"
+    },
+    {
+      "Area": "Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "4971"
+    }
+  ],
+  "Hawke's Bay Region": [
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "118281"
+    },
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "27513"
+    },
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "16137"
+    },
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "12279"
+    },
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "7710"
+    },
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "11499"
+    },
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "10011"
+    },
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "10539"
+    },
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "1947"
+    },
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "1452"
+    },
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "309"
+    },
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "4239"
+    },
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "103638"
+    },
+    {
+      "Area": "Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "14640"
+    }
+  ],
+  "Taranaki Region": [
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "86469"
+    },
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "21408"
+    },
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "12372"
+    },
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "8649"
+    },
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "5448"
+    },
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "9246"
+    },
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "6681"
+    },
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "6807"
+    },
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "1347"
+    },
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "990"
+    },
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "180"
+    },
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "2742"
+    },
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "75870"
+    },
+    {
+      "Area": "Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "10596"
+    }
+  ],
+  "Manawatu-Wanganui Region": [
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "177123"
+    },
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "42276"
+    },
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "23898"
+    },
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "17970"
+    },
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "14748"
+    },
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "16437"
+    },
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "13047"
+    },
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "14940"
+    },
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "3198"
+    },
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "2817"
+    },
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "1560"
+    },
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "5616"
+    },
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "156501"
+    },
+    {
+      "Area": "Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "20622"
+    }
+  ],
+  "Wellington Region": [
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "379311"
+    },
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "55083"
+    },
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "37284"
+    },
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "36330"
+    },
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "38241"
+    },
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "29766"
+    },
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "30843"
+    },
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "60714"
+    },
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "15963"
+    },
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "15765"
+    },
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "4083"
+    },
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "19650"
+    },
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "343731"
+    },
+    {
+      "Area": "Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "35580"
+    }
+  ],
+  "Tasman Region": [
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "37722"
+    },
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "8040"
+    },
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "5202"
+    },
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "4068"
+    },
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "2439"
+    },
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "4401"
+    },
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "3741"
+    },
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "3336"
+    },
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "849"
+    },
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "624"
+    },
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "168"
+    },
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "1590"
+    },
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "34455"
+    },
+    {
+      "Area": "Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "3270"
+    }
+  ],
+  "Nelson Region": [
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "37695"
+    },
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "7335"
+    },
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "4602"
+    },
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "3858"
+    },
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "2493"
+    },
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "3918"
+    },
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "3774"
+    },
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "4101"
+    },
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "1086"
+    },
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "864"
+    },
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "252"
+    },
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "1848"
+    },
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "34125"
+    },
+    {
+      "Area": "Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "3567"
+    }
+  ],
+  "Marlborough Region": [
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "35667"
+    },
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "8115"
+    },
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "4917"
+    },
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "3687"
+    },
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "2295"
+    },
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "4158"
+    },
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "3117"
+    },
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "2799"
+    },
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "663"
+    },
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "489"
+    },
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "105"
+    },
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "1413"
+    },
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "31758"
+    },
+    {
+      "Area": "Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "3909"
+    }
+  ],
+  "West Coast Region": [
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "25998"
+    },
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "6882"
+    },
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "3873"
+    },
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "2706"
+    },
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "1497"
+    },
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "2763"
+    },
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "1920"
+    },
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "1554"
+    },
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "396"
+    },
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "270"
+    },
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "54"
+    },
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "678"
+    },
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "22587"
+    },
+    {
+      "Area": "West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "3408"
+    }
+  ],
+  "Canterbury Region": [
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "438741"
+    },
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "85440"
+    },
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "55851"
+    },
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "45411"
+    },
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "37257"
+    },
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "41244"
+    },
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "39372"
+    },
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "48099"
+    },
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "11034"
+    },
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "9183"
+    },
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "3150"
+    },
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "20700"
+    },
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "396747"
+    },
+    {
+      "Area": "Canterbury Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "41994"
+    }
+  ],
+  "Otago Region": [
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "167556"
+    },
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "29877"
+    },
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "18969"
+    },
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "15387"
+    },
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "20124"
+    },
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "16008"
+    },
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "12948"
+    },
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "19260"
+    },
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "4842"
+    },
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "3822"
+    },
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "2124"
+    },
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "7272"
+    },
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "150630"
+    },
+    {
+      "Area": "Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "16923"
+    }
+  ],
+  "Southland Region": [
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "74145"
+    },
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "19875"
+    },
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "11535"
+    },
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "7911"
+    },
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "4539"
+    },
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "7356"
+    },
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "5367"
+    },
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "5847"
+    },
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "1095"
+    },
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "570"
+    },
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "120"
+    },
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "2004"
+    },
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "66219"
+    },
+    {
+      "Area": "Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "7926"
+    }
+  ],
+  "Total, Regional Council Areas": [
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "3375939"
+    },
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "628239"
+    },
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "389856"
+    },
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "320331"
+    },
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "289041"
+    },
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "291906"
+    },
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "278070"
+    },
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "408420"
+    },
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "86595"
+    },
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "83940"
+    },
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "22317"
+    },
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "201513"
+    },
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "3000225"
+    },
+    {
+      "Area": "Total, Regional Council Areas",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "375714"
+    }
+  ],
+  "Area Outside Region": [
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "480"
+    },
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "138"
+    },
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "57"
+    },
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "57"
+    },
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "21"
+    },
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "69"
+    },
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "21"
+    },
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "24"
+    },
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "6"
+    },
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "9"
+    },
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "9"
+    },
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "411"
+    },
+    {
+      "Area": "Area Outside Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "72"
+    }
+  ],
+  "Oceanic-Tasman Region": [
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Tasman Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Auckland Region East": [
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "6"
+    },
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Auckland Region West": [
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Auckland Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Northland Region": [
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Northland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Waikato Region West": [
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region West",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Waikato Region East": [
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Waikato Region East",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Bay of Plenty Region": [
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Bay of Plenty Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Gisborne Region": [
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Gisborne Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Hawke's Bay Region": [
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Hawke's Bay Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Taranaki Region": [
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "3"
+    },
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Taranaki Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Wellington Region": [
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Wellington Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Manawatu-Wanganui Region": [
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Manawatu-Wanganui Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Nelson Region": [
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Nelson Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Marlborough Region": [
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Marlborough Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Canterbury Region North": [
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region North",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-West Coast Region": [
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-West Coast Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Canterbury Region South": [
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "12"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "12"
+    },
+    {
+      "Area": "Oceanic-Canterbury Region South",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Otago Region": [
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Otago Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ],
+  "Oceanic-Southland Region": [
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people, highest qualification",
+      "Sex": "Total people, sex",
+      "Value": "0"
+    },
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "No qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 1 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 2 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 3 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 4 certificate",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Level 5 or level 6 diploma",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Bachelor degree and level 7 qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Post-graduate and honours degrees",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Masters degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Doctorate degree",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Overseas secondary school qualification",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Total people stated",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    },
+    {
+      "Area": "Oceanic-Southland Region",
+      "Grouped total personal income": "Total people, grouped total personal income",
+      "Highest qualification": "Not elsewhere included",
+      "Sex": "Total people, sex",
+      "Value": "",
+      "Flags": "c"
+    }
+  ]
+}

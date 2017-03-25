@@ -1,0 +1,23 @@
+#industries {
+  display: block;
+  margin-top: 20px;
+  color: #DDFFDD;
+  height: 400px;
+  max-height: 400px;
+  overflow-y: auto;
+}
+#industries .row {
+  width: 500px;
+}
+#industries .row .k {
+  display: inline-block;
+  width: 250px;
+  border-bottom: 1px solid #d2f2d2;
+}
+
+#industries .row .v {
+  display: inline-block;
+  text-align: right;
+  width: 100px;
+  border-bottom: 1px solid #d2f2d2;
+}

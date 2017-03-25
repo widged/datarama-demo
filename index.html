@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<!-- begain to impliment other means of data-visa just incase, i.e pie html5 pie charts-->
+<!-- http://rendro.github.io/easy-pie-chart/  thanQ!~-->
+<!-- http://www.chartjs.org/-->
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Visigration.</title>
+
+  <!-- Bootstrap Core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom CSS -->
+  <link href="css/main.css" rel="stylesheet">
+  <link href="css/industries.css" rel="stylesheet">
+
+  <!-- Custom Fonts -->
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+  <!-- jQuery&Stuff -->
+
+  <script src="js/raphael.js"></script>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+   <script src="js/jquery.js"></script>
+
+
+  <!-- fontzez -->
+  <style>
+  @font-face { font-family: akzidenz; src="fonts/akzidenz-grotesk-bold.ttf;" }
+  </style>
+
+  </head>
+
+  <body>
+    <!--Backend Coms-->
+
+    <script>
+    </script>
+
+
+    <!--End Backend Coms-->
+
+
+    <!-- Navigation -->
+
+      <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+      <a class="navbar-brand" href="#">Visigration</a>
+          <div id="navbar" class="navbar-collapse collapse">
+
+          </div><!--/.nav-collapse -->
+        </div>
+      </nav>
+
+    <!-- Header -->
+    <header id="top" class="header">
+
+      <script>var xSeconds = 1000; // 1 second
+
+      setTimeout(function() {
+        $('#canvas').fadeIn('6000');
+        $('#canvas').show();
+        $('.logo').fadeOut('6006');
+        $('.visitix').fadeOut('6006');
+
+      }, xSeconds);</script>
+
+      <div id ="overlay">
+        <img id="logo" class="logo" src="img/logo2.png">
+      </div>
+
+      <div id="canvas">
+
+        <!--Divs will hold visual-data-->
+
+        <div id="paper"></div>
+        <div id="panel"></div>
+
+      </header>
+      <div id="footer" class="footer"></div>
+      <div id="headz" class="headz"></div>
+
+      <!-- Bootstrap Core JavaScript -->
+      <script src="js/bootstrap.min.js"></script>
+
+      <!-- Custom Theme JavaScript -->
+      <script>
+      // Closes the sidebar menu
+      $("#menu-close").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+      });
+
+      // Opens the sidebar menu
+      $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+      });
+
+      // Scrolls to the selected menu item on the page
+      $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+          if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+            if (target.length) {
+              $('html,body').animate({
+                scrollTop: target.offset().top
+              }, 1000);
+              return false;
+            }
+          }
+        });
+      });
+      </script>
+
+      <!-- Google Charts API-->
+      <script src="json/Industry Income by Region CSV1.csv.jsonp"></script>
+      <script src="json/TABLECODE8114_Data_1b7e24f2-bdd4-4eb5-86a6-1217e6daccc0.csv.jsonp"></script>
+      <script src="json/TABLECODE8114_Data_7f4acc03-5971-41ac-b87a-bd813c7978ac.csv.jsonp"></script>
+      <script src="json/TABLECODE8115 copy.csv.jsonp"></script>
+      <script>var statFns = {};</script>
+      <script src="js/stat_details.js"></script>
+      <script src="js/immigration.js"></script>
+      <script src="js/stats.js"></script>
+      <script src="js/trademe.js"></script>
+      <script src="data/regions.js"></script>
+      <script src="js/nzgeography.js"></script>
+
+    </body>
+
+    </html>
